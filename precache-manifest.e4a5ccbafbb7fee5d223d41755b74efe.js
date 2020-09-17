@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ccf78f710f86c4a58bdb6cca7f17f774",
+    "revision": "65b2270a6e44739088bbc0ece45b8606",
     "url": "/skyway-try/index.html"
   },
   {
-    "revision": "6d92be834f78ce0d5396",
+    "revision": "68f21976a4a8f7d96bf3",
     "url": "/skyway-try/static/css/main.d95ab92c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/skyway-try/static/js/2.5d3f79b4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6d92be834f78ce0d5396",
-    "url": "/skyway-try/static/js/main.9fecca86.chunk.js"
+    "revision": "68f21976a4a8f7d96bf3",
+    "url": "/skyway-try/static/js/main.6f0dbf82.chunk.js"
   },
   {
     "revision": "72019e983ba9805b26f6",
