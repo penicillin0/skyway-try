@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/skyway-try/precache-manifest.4129cf91459b9e65249df60090b35d36.js"
+  "/skyway-try/precache-manifest.2d0ebbee5522013a995ffb8188ae00c7.js"
 );
 
 self.addEventListener('message', (event) => {
