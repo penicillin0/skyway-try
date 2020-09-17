@@ -1,0 +1,14 @@
+#video-screen {
+  position: relative;
+  margin: 0 auto;
+}
+#video {
+  position: absolute;
+  margin: 0 auto;
+  left: 0;
+  top: 0;
+}
+
+#comment-screen-wrap {
+  position: absolute;
+}
